@@ -5,5 +5,12 @@
   "records": {
     "TXT": "46c704b75e719a3bf660c44dc29c1cfb"
   },
-  "proxy": true
+  "proxy": true,
+  "extra": [
+    {
+      "type": "TXT",
+      "name": "_verifikasi",
+      "value": "46c704b75e719a3bf660c44dc29c1cfb=aris"
+    }
+  ]
 }
