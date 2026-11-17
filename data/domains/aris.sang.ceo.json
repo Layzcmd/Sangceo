@@ -1,0 +1,8 @@
+{
+  "domain": "sang.ceo",
+  "subdomain": "aris",
+  "owner": "Layzcmd",
+  "records": {
+    "CNAME": "nama-proyek-mu.pages.dev"
+  }
+}
