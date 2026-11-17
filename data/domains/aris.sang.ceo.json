@@ -5,5 +5,13 @@
   "records": {
     "CNAME": "nama-proyek-mu.pages.dev"
   },
-  "description": "Situs Resmi Aris Store"
+  "description": "Situs Resmi Aris Store",
+  "proxy": true,
+  "extra": [
+    {
+      "type": "TXT",
+      "name": "_verifikasi",
+      "value": "reclaim-f84ae6nfj628y8c6me49tlnbm88qxlgq=aris"
+    }
+  ]
 }
